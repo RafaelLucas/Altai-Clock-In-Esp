@@ -6,7 +6,7 @@
 
 ### Instalacion
 
-1. Utilizar la terminal y escribir : `npm run install`
+1. Utilizar la terminal, acceder al directorio principal y escribir : `npm run install`
 
 ### Configuracion
 
