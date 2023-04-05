@@ -6,7 +6,7 @@
 
 ### Instalacion
 
-1. Utilizar la terminal, acceder al directorio principal y escribir : `npm run install`
+1. Utilizar la terminal, acceder al directorio principal y escribir : `npm install`
 
 ### Configuracion
 
@@ -16,8 +16,8 @@
 
 ### Comandos permitidos
 
-1. Una vez con todo configurado escribir en la consola de la terminal `npm run start`
+1. Una vez con todo configurado escribir en la consola de la terminal `npm start`
 
-2. Para ver el historial de fichajes que llevamos escribir en la consola de la terminal `npm run c`
+2. Para ver el historial de fichajes que llevamos escribir en la consola de la terminal `npm c`
 
 3. Para detener la ejecucion del programa en la terminal pulsar `CTRL + C`
