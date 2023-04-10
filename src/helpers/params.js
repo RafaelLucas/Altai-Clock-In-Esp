@@ -33,5 +33,4 @@ export const getParams = () => {
   } else {
     return new Date();
   }
-
 };
