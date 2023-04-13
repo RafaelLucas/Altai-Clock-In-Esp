@@ -1,4 +1,5 @@
 const fetch = require("node-fetch"); // Instancio el paquete 'node-fetch'
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 
 export const extraerFestivos = async () => {
 

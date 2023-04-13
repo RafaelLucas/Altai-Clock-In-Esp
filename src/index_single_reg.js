@@ -82,9 +82,9 @@ const formattedDate = format(date, 'DD/MM/YYYY');
         case schedule[weekDay].to:
           console.log('Realizando fichaje...');
           /** HACEMOS LOGIN **/
-          var browser = await puppeteer.launch({ headless: true });
-          var page = await browser.newPage();
           try {
+            var browser = await puppeteer.launch({ headless: true });
+            var page = await browser.newPage();
             await page.goto(process.env.ALTAI_URL);
             await page.type('#txLoginUsuario', process.env.ALTAI_USER);
             await page.type('#txLoginContrasena', process.env.ALTAI_PASSWORD);
