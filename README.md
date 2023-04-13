@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-### Instalacion
+### Instalacion :
 
 1. Utilizar la terminal, acceder al directorio principal y escribir : `npm install`
 
